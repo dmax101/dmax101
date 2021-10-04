@@ -1,21 +1,3 @@
-<!--
-### Hi there 👋
-
-**dmax101/dmax101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
 ### Hello World 👋 
 ### This is Danilo Ribeiro!
 
@@ -26,8 +8,7 @@ Here are some ideas to get you started:
 Welcome to my Github page! I am Danilo and I am currently finishing my Computer Engineering bachelor degree at Inatel university!
 
 <img align="right" alt="img" src="cover_image.jpg" width="50%" height="auto" />
-</br>
-<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=dmax101&theme=blue-green&show_icons=true&hide_border=false" />
+<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=dmax101&theme=blue-green&show_icons=true&hide_border=true" />
 
 #### ⚡ Check it out some of my projects
 - [Quotation Management](https://github.com/dmax101/icc-idp-prova-quotation-management)
