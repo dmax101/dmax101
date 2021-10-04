@@ -16,12 +16,12 @@ Welcome to my Github page! I am Danilo and I am currently finishing my Computer 
     - Java
     - Spring Boot
 - [Virtual Assistant Nateli](https://github.com/dmax101/Nateli_Mqtt_Mobile)
-    - Reconhecimento de voz para comandos via protocolo MQTT
+    - Voice recognizer to voice command thrugh MQTT protocol
     - Javascript
     - Typescript
     - React Native
 - [Databank Analisys using Perception Neural Network](https://github.com/dmax101/AG002)
-    - Inteligência artificial para predição
+    - Artificial inteligence using Neural Network for prediction
     - Python
     - Pandas
     - Scikit Learn
