@@ -9,6 +9,7 @@ Welcome to my Github page! I am Danilo and I am currently finishing my Computer 
 
 <img align="right" alt="img" src="cover_image.jpg" width="50%" height="auto" />
 <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=dmax101&theme=blue-green&show_icons=true&hide_border=true" />
+<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=3&layout=compact&theme=blue-green&hide_border=true" />
 
 #### ⚡ Check it out some of my projects
 - [Quotation Management](https://github.com/dmax101/icc-idp-prova-quotation-management)
@@ -43,3 +44,5 @@ Welcome to my Github page! I am Danilo and I am currently finishing my Computer 
 <br />
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
 </p>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
