@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 Welcome to my Github page! I am Danilo and I am currently finishing my Computer Engineering bachelor degree at Inatel university!
 
 <img align="right" alt="img" src="cover_image.jpg" width="50%" height="auto" />
-
+</br>
 <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=dmax101&theme=blue-green&show_icons=true&hide_border=false" />
 
 #### ⚡ Check it out some of my projects
@@ -49,11 +49,11 @@ Welcome to my Github page! I am Danilo and I am currently finishing my Computer 
 #### :computer: Programming languages and tools: 
 
 <p>
-<code><img width="20%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
-<code><img width="20%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
+<code><img width="15%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
+<code><img width="15%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
 <br />
-<code><img width="20%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
-<code><img width="20%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code>
+<code><img width="15%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
+<code><img width="15%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code>
 <br />
-<code><img width="20%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
+<code><img width="15%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
 </p>
