@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-### Hi there 👋 
+### Hello World 👋 
 ### This is Danilo Ribeiro!
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/dmax101)
@@ -25,37 +25,35 @@ Here are some ideas to get you started:
 
 Welcome to my Github page! I am Danilo and I am currently finishing my Computer Engineering bachelor degree at Inatel university!
 
+<img align="right" alt="img" src="cover_image.jpg" width="50%" height="auto" />
 
-<img align="right" alt="img" src="cover_image.jpg" width="45%" height="auto" />
+<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=dmax101&theme=blue-green&show_icons=true&hide_border=false" />
 
-#### Check it out my projects
-- [Quotation Management](https://github.com/dmax101/icc-idp-prova-quotation-management) (Java / Spring Boot / Rest Api)
-- [Virtual Assistant Nateli](https://github.com/dmax101/Nateli_Mqtt_Mobile) (Javascript - Typescript / React Native / Reconhecimento de Voz para comandos via protocolo MQTT)
-- [Databank Analisys using Perception Neural Network]
-•	https://github.com/dmax101/AG002 (Python / Pandas - Scikit Learn - Numpy / Inteligência artificial para predição)
-
-
-<!--
-#### 🌱 Things I am currently working on: 
-- Finish my Computer Engineering Degree  
-- Taking online courses about Data Science and Machine Learning
-
-#### :muscle: Things I am challenging myself with:
-- Waking up earlier to make good use of the day
-- Coding at least 4 hours a day
-- Exercising 3 days a week
-- Improving my CV with some education apart from university
--->
+#### ⚡ Check it out some of my projects
+- [Quotation Management](https://github.com/dmax101/icc-idp-prova-quotation-management)
+    - Java
+    - Spring Boot
+    - Rest Api
+- [Virtual Assistant Nateli](https://github.com/dmax101/Nateli_Mqtt_Mobile)
+    - Javascript
+    - Typescript
+    - React Native
+    - Reconhecimento de Voz para comandos via protocolo MQTT
+- [Databank Analisys using Perception Neural Network](https://github.com/dmax101/AG002)
+    - Python
+    - Pandas
+    - Scikit Learn
+    - Numpy
+    - Inteligência artificial para predição
 
 #### :computer: Programming languages and tools: 
 
 <p>
-	<img width="50%" align="left" src="https://github-readme-stats.vercel.app/api?username=dmax101&theme=blue-green&show_icons=true&hide_border=false" />
-
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code>
+<code><img width="20%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
+<code><img width="20%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
 <br />
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
+<code><img width="20%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
+<code><img width="20%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code>
+<br />
+<code><img width="20%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
 </p>
