@@ -5,11 +5,11 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/danribeiro101/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:danriba@gmail.com)
 
-Welcome to my Github page! I am Danilo and I am currently finishing my Computer Engineering bachelor degree at Inatel university!
+Welcome to my Github page! I am Danilo and I am currently finishing my Computer Engineering bachelor degree at Inatel university! Also I have a bachelor degree in Advertising and Marketing, you can see my [design portfolio](https://danribeiro.carbonmade.com) to.
 
 <img align="right" alt="img" src="cover_image.jpg" width="50%" height="auto" />
 <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=dmax101&theme=blue-green&show_icons=true&hide_border=true" />
-<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=3&layout=compact&theme=blue-green&hide_border=true" />
+<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8&layout=compact&theme=blue-green&hide_border=true" />
 
 #### ⚡ Check it out some of my projects
 - [Quotation Management](https://github.com/dmax101/icc-idp-prova-quotation-management)
