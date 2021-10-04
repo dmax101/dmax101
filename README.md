@@ -28,7 +28,7 @@ Welcome to my Github page! I am Danilo and I am currently finishing my Computer 
     - Scikit Learn
     - Numpy
 
-#### Resume
+#### 📄 Resume
 If you want to see my resume please click [here](resume_danilo_ribeiro_2021.pdf).
 
 #### :computer: Programming languages and tools: 
