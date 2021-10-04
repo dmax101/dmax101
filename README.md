@@ -28,6 +28,13 @@ Welcome to my Github page! I am Danilo and I am currently finishing my Computer 
 
 <img align="right" alt="img" src="cover_image.jpg" width="45%" height="auto" />
 
+#### Check it out my projects
+- [Quotation Management](https://github.com/dmax101/icc-idp-prova-quotation-management) (Java / Spring Boot / Rest Api)
+- [Virtual Assistant Nateli](https://github.com/dmax101/Nateli_Mqtt_Mobile) (Javascript - Typescript / React Native / Reconhecimento de Voz para comandos via protocolo MQTT)
+- [Databank Analisys using Perception Neural Network]
+•	https://github.com/dmax101/AG002 (Python / Pandas - Scikit Learn - Numpy / Inteligência artificial para predição)
+
+
 <!--
 #### 🌱 Things I am currently working on: 
 - Finish my Computer Engineering Degree  
