@@ -1,37 +1,40 @@
-### Hello World 👋 
+### Hello World 👋
+
 ### This is Danilo Ribeiro!
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/dmax101)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/danribeiro101/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:danriba@gmail.com)
 
-Welcome to my Github page! I am Danilo and I am currently finishing my Computer Engineering bachelor degree at Inatel university! Also I have a bachelor degree in Advertising and Marketing, and if you want, you can see my [design portfolio](https://danribeiro.carbonmade.com) to.
+Welcome to my Github page! I am Danilo and I am currently finishing my Computer Engineering bachelor degree at Inatel university! Also I have a bachelor degree in Advertising and Marketing, and if you want, you can see my [design portfolio](https://www.behance.net/gallery/56328333/Portfolio) to.
 
 <img align="right" alt="img" src="cover_image.jpg" width="50%" height="auto" />
 <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=dmax101&theme=blue-green&show_icons=true&hide_border=true" />
 <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8&layout=compact&theme=blue-green&hide_border=true" />
 
 #### ⚡ Check it out some of my projects
+
 - [Quotation Management](https://github.com/dmax101/icc-idp-prova-quotation-management)
-    - Rest Api
-    - Java
-    - Spring Boot
+  - Rest Api
+  - Java
+  - Spring Boot
 - [Virtual Assistant Nateli](https://github.com/dmax101/Nateli_Mqtt_Mobile)
-    - Voice recognizer to voice command thrugh MQTT protocol
-    - Javascript
-    - Typescript
-    - React Native
+  - Voice recognizer to voice command thrugh MQTT protocol
+  - Javascript
+  - Typescript
+  - React Native
 - [Databank Analisys using Perception Neural Network](https://github.com/dmax101/AG002)
-    - Artificial inteligence using Neural Network for prediction
-    - Python
-    - Pandas
-    - Scikit Learn
-    - Numpy
+  - Artificial inteligence using Neural Network for prediction
+  - Python
+  - Pandas
+  - Scikit Learn
+  - Numpy
 
 #### 📄 Resume
-If you want to see my resume please click [here](resume_danilo_ribeiro_2021.pdf).
 
-#### :computer: Programming languages and tools: 
+If you want to see my resume please click [here](resume_Danilo_Ribeiro.pdf).
+
+#### :computer: Programming languages and tools:
 
 <p>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
