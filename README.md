@@ -14,6 +14,11 @@ Welcome to my Github page! I am Danilo and I am currently finishing my Computer 
 
 #### ⚡ Check it out some of my projects
 
+- [PokeNext](https://github.com/dmax101/pokenext) - [Acesse aqui](https://pokenext-x527.vercel.app)
+  - Next.Js
+  - React
+  - Javascript
+  - Tailwind
 - [Quotation Management](https://github.com/dmax101/icc-idp-prova-quotation-management)
   - Rest Api
   - Java
@@ -32,7 +37,7 @@ Welcome to my Github page! I am Danilo and I am currently finishing my Computer 
 
 #### 📄 Resume
 
-If you want to see my resume please click [here](resume_Danilo_Ribeiro.pdf).
+If you want to see my resume please click [here](https://www.notion.so/dmax/Resume-34bc7605c9d8401796e87c78f11f71b5?pvs=4).
 
 #### :computer: Programming languages and tools:
 
@@ -49,4 +54,5 @@ If you want to see my resume please click [here](resume_Danilo_Ribeiro.pdf).
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code>
 <br />
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-ar21.svg"></code>
 </p>
