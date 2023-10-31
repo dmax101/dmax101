@@ -6,19 +6,14 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/danribeiro101/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:danriba@gmail.com)
 
-Welcome to my Github page! I am Danilo, a software engineer graduated in Computer Engineering at Inatel university! Also I have a bachelor degree in Advertising and Marketing, and if you want, you can see my [design portfolio](https://www.behance.net/gallery/56328333/Portfolio) to.
+Welcome to my Github page! I'm Danilo, a software engineer graduated in Computer Engineering at Inatel university! Also I have a bachelor degree in Advertising and Marketing, and if you want, you can see my [design portfolio](https://www.behance.net/gallery/56328333/Portfolio) to.
 
-<img align="right" alt="img" src="https://avatars.githubusercontent.com/u/8492524?v=4" width="50%" height="auto" />
+<img align="right" alt="img" src="cover_image.jpg" width="50%" height="auto" />
 <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=dmax101&theme=blue-green&show_icons=true&hide_border=true" />
 <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8&layout=compact&theme=blue-green&hide_border=true" />
 
 #### ⚡ Check it out some of my projects
 
-- [PokeNext](https://github.com/dmax101/pokenext) - [see here](https://pokenext-x527.vercel.app)
-  - Next.Js
-  - React
-  - Javascript
-  - Tailwind
 - [Quotation Management](https://github.com/dmax101/icc-idp-prova-quotation-management)
   - Rest Api
   - Java
@@ -34,6 +29,11 @@ Welcome to my Github page! I am Danilo, a software engineer graduated in Compute
   - Pandas
   - Scikit Learn
   - Numpy
+- [PokeNext](https://github.com/dmax101/pokenext) - [see here](https://pokenext-x527.vercel.app)
+  - Next.Js
+  - React
+  - Javascript
+  - Tailwind
 
 #### 📄 Resume
 
