@@ -25,10 +25,25 @@ Senior Software Engineer with **6+ years of frontend development experience** an
 
 ## 📊 GitHub Statistics
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=dmax101&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dmax101&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=dmax101&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&custom_title=GitHub%20Stats"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dmax101&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&custom_title=Most%20Used%20Languages"/>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dmax101&theme=tokyonight&hide_border=true)
+<br/>
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dmax101&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph)
+
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dmax101&theme=tokyonight&hide_border=true"/>
+
+<br/>
+
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dmax101&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dmax101&theme=tokyonight&hide_border=true"/>
+
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=dmax101&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15"/>
 
 </div>
 
@@ -121,17 +136,30 @@ Senior Software Engineer with **6+ years of frontend development experience** an
 
 ### 🌎 [US/Canada Resume](https://github.com/dmax101/dmax101/blob/main/RESUME_US.md)
 
+### 🇧🇷 [Currículo em Português](https://github.com/dmax101/dmax101/blob/main/RESUME_PT_BR.md)
+
 ### 🎨 [Design Portfolio](https://www.behance.net/gallery/56328333/Portfolio)
 
 </div>
 
 ---
 
-## 📈 Contribution Activity
+## 📫 Let's Connect
 
-<!--START_SECTION:activity-->
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dmax101&theme=tokyo-night&hide_border=true&area=true)
-<!--END_SECTION:activity-->
+<div align="center">
+
+**I'm always open to discussing new projects, creative ideas, or opportunities to be part of your vision.**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danribeiro101/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dmax101)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:danriba@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF6C37?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/gallery/56328333/Portfolio)
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=dmax101&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
+
+</div>
 
 ---
 
@@ -139,6 +167,6 @@ Senior Software Engineer with **6+ years of frontend development experience** an
 
 ### 💡 *"Clean code always looks like it was written by someone who cares."* - Robert C. Martin
 
-![Profile Views](https://komarev.com/ghpvc/?username=dmax101&color=blueviolet&style=for-the-badge)
+**⭐ If you like my projects, consider giving them a star!**
 
 </div>
