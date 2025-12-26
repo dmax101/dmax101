@@ -25,17 +25,9 @@ Senior Software Engineer with **6+ years of frontend development experience** an
 
 ## 📊 GitHub Statistics
 
-### 📊 Detailed Activity
-
-<p align="center">
-  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=dmax101&theme=tokyo-night&hide_border=true&area=true"/>
-</p>
-
 <p align="center">
   <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dmax101&theme=tokyonight"/>
 </p>
-
-### 💻 Language Distribution
 
 <p align="center">
   <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dmax101&theme=tokyonight"/>
