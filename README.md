@@ -14,11 +14,11 @@
 
 ## 👨‍💻 About Me
 
-Software Engineer with a degree in **Computer Engineering** from Inatel. Specialized in building modern, scalable web applications using **Angular** and **.NET** technologies. Passionate about creating clean, maintainable code and delivering exceptional user experiences.
+Senior Software Engineer with **6+ years of frontend development experience** and a degree in **Computer Engineering** from Inatel. Specialized in building modern, scalable web applications using **Angular**, **React**, and **TypeScript**. Proven track record delivering enterprise solutions for Fortune 500 clients including Deloitte and Unilever. Passionate about creating clean, maintainable code and delivering exceptional user experiences.
 
-- 🎯 **Core Focus:** Angular, C# (.NET Core/Framework), TypeScript
+- 🎯 **Core Focus:** Angular, React, TypeScript, Node.js, Python
 - 🏗️ **Architecture:** RESTful APIs, Microservices, Clean Architecture
-- 🌱 **Currently Learning:** Advanced Angular patterns, Cloud Architecture (Azure)
+- 🌱 **Currently Learning:** Advanced Angular patterns, Cloud Architecture (GCP/Azure)
 - 💼 **Background:** Also hold a degree in Advertising and Marketing
 
 <div align="center">
@@ -105,7 +105,9 @@ Software Engineer with a degree in **Computer Engineering** from Inatel. Special
 
 <div align="center">
 
-### 📄 [View My Complete Resume](https://www.notion.so/dmax/Resume-34bc7605c9d8401796e87c78f11f71b5?pvs=4)
+### 📄 [View My Complete Resume](https://github.com/dmax101/dmax101/blob/main/RESUME.md)
+
+### 🌎 [US/Canada Resume](https://github.com/dmax101/dmax101/blob/main/RESUME_US.md)
 
 ### 🎨 [Design Portfolio](https://www.behance.net/gallery/56328333/Portfolio)
 

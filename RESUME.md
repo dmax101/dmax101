@@ -102,7 +102,7 @@ Experienced Software Engineer with **6+ years in frontend development**, special
 ---
 
 ### **UX/UI Designer & Frontend Developer** | Limonada Comunicação
-**May 2008 - March 2017** | São Paulo, Brazil
+**March 2008 - March 2017** | São Paulo, Brazil
 
 - Created innovative **iPad applications** using **HTML5**, **CSS3**, and **JavaScript**
 - Designed engaging UX/UI experiences increasing user satisfaction and engagement
