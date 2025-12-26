@@ -22,6 +22,7 @@ Senior Software Engineer with **6+ years of hands-on experience** developing ent
 ## 👨‍💻 Professional Experience
 
 ### **Senior Frontend Engineer** | Linx
+
 **January 2025 - Present** | Remote
 
 - Developing high-performance components for automotive software solutions using modern frontend technologies
@@ -34,6 +35,7 @@ Senior Software Engineer with **6+ years of hands-on experience** developing ent
 ---
 
 ### **Full Stack Developer** | Aquasoft
+
 **March 2024 - December 2024** | Remote
 
 - Successfully **migrated 5+ Angular projects** to latest versions within **Nx workspace** environments
@@ -47,6 +49,7 @@ Senior Software Engineer with **6+ years of hands-on experience** developing ent
 ---
 
 ### **Freelance Full Stack Developer**
+
 **April 2023 - Present** | Remote
 
 - Delivered custom web applications using **Angular**, **React**, **Next.js**, and **NestJS** for diverse clients
@@ -61,6 +64,7 @@ Senior Software Engineer with **6+ years of hands-on experience** developing ent
 ---
 
 ### **Frontend Developer** | Payever
+
 **March 2023 - April 2023** | Remote
 
 - Developed **Angular TypeScript components** for fintech platform solutions
@@ -73,6 +77,7 @@ Senior Software Engineer with **6+ years of hands-on experience** developing ent
 ---
 
 ### **Software Engineer** | Deloitte
+
 **November 2021 - March 2023** | São Paulo, Brazil (Remote)
 
 - Built enterprise automation solutions for **Deloitte** and **Unilever** using **Angular** and **Django**
@@ -88,6 +93,7 @@ Senior Software Engineer with **6+ years of hands-on experience** developing ent
 ---
 
 ### **Frontend Developer** | Inatel - Instituto Nacional de Telecomunicações
+
 **October 2019 - November 2021** | Santa Rita do Sapucaí, Brazil
 
 - Developed cutting-edge **Angular solutions** for **Ericsson** telecommunications systems
@@ -102,6 +108,7 @@ Senior Software Engineer with **6+ years of hands-on experience** developing ent
 ---
 
 ### **UX/UI Designer & Frontend Developer** | Limonada Comunicação
+
 **March 2008 - March 2017** | São Paulo, Brazil
 
 - Created innovative **iPad applications** using **HTML5**, **CSS3**, and **JavaScript**
@@ -119,6 +126,7 @@ Senior Software Engineer with **6+ years of hands-on experience** developing ent
 ## 🎓 Education
 
 ### **Bachelor of Computer Engineering**
+
 **Inatel - Instituto Nacional de Telecomunicações** | 2017 - 2022  
 *Santa Rita do Sapucaí, MG*
 
@@ -128,6 +136,7 @@ Senior Software Engineer with **6+ years of hands-on experience** developing ent
 - Hands-on projects in embedded systems and network programming
 
 ### **Bachelor of Advertising and Marketing**
+
 **UNIP - Universidade Paulista** | 2009 - 2013  
 *São Paulo, SP*
 
@@ -140,6 +149,7 @@ Senior Software Engineer with **6+ years of hands-on experience** developing ent
 ## 💻 Technical Skills
 
 ### **Frontend Technologies**
+
 - **JavaScript/TypeScript** (Expert) - 6+ years experience
 - **Angular** (Expert) - 5+ years, versions 8-17
   - RxJS, NgRx, Angular Material, Standalone Components
@@ -150,6 +160,7 @@ Senior Software Engineer with **6+ years of hands-on experience** developing ent
 - **SASS/SCSS** (Advanced) - Modular styling architecture
 
 ### **Backend Technologies**
+
 - **Node.js** (Advanced) - RESTful APIs, microservices, event-driven architecture
 - **Python/Django** (Advanced) - 3+ years experience, ORM, REST framework
 - **Java/Spring Boot** (Intermediate) - Enterprise applications, dependency injection
@@ -157,6 +168,7 @@ Senior Software Engineer with **6+ years of hands-on experience** developing ent
 - **tRPC** (Intermediate) - Type-safe APIs, end-to-end type safety
 
 ### **Database & Cloud**
+
 - **PostgreSQL** (Advanced) - Database design, optimization, complex queries
 - **SQL Server** (Advanced) - T-SQL, stored procedures, performance tuning
 - **Prisma ORM** (Advanced) - Type-safe database access, migrations
@@ -165,6 +177,7 @@ Senior Software Engineer with **6+ years of hands-on experience** developing ent
 - **Azure** (Basic) - Cloud services familiarity
 
 ### **Development Tools & Practices**
+
 - **Git/GitHub** (Expert) - Version control, collaborative development, branching strategies
 - **Nx Workspace** (Advanced) - Monorepo management, build optimization
 - **Docker** (Intermediate) - Containerization, multi-stage builds
@@ -175,12 +188,14 @@ Senior Software Engineer with **6+ years of hands-on experience** developing ent
 - **PowerShell** (Intermediate) - Automation scripts, system administration
 
 ### **Design & UX**
+
 - **Figma** (Advanced) - UI/UX design, prototyping, design systems
 - **Adobe Creative Suite** (Advanced) - Photoshop, Illustrator, InDesign, After Effects
 - **Responsive Design** (Expert) - Mobile-first approach, cross-browser compatibility
 - **Wireframing** (Advanced) - User flows, information architecture
 
 ### **Additional Skills**
+
 - **Artificial Intelligence** - Wit.ai, Machine Learning basics, Neural Networks
 - **IoT Development** - MQTT protocol, device integration, React Native
 - **REST APIs** - Design, implementation, documentation
@@ -192,11 +207,13 @@ Senior Software Engineer with **6+ years of hands-on experience** developing ent
 ## 🌐 Languages
 
 **English** - Advanced Proficiency (C1)  
+
 - Professional working proficiency in international teams
 - Technical documentation and communication
 - Daily use in remote work environments
 
 **Portuguese** - Native Speaker  
+
 - Business and technical communication
 - Documentation and content creation
 
@@ -205,6 +222,7 @@ Senior Software Engineer with **6+ years of hands-on experience** developing ent
 ## 🏆 Certifications & Extra-Curricular Activities
 
 ### **Artificial Intelligence Scholarship** | Instituto Nacional de Telecomunicações
+
 **May 2020 - April 2021** | Santa Rita do Sapucaí, Brazil
 
 - Developed **voice-controlled IoT assistant** application using AI technologies

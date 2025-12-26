@@ -1,7 +1,8 @@
 # DANILO RIBEIRO
+
 **Engenheiro Frontend Sênior | Desenvolvedor Full Stack**
 
-São Paulo, Brasil | +55 (35) 9 9846-5456 | danriba@gmail.com  
+São Paulo, Brasil | +55 (35) 9 9846-5456 | <danriba@gmail.com>  
 [LinkedIn](https://linkedin.com/in/danribeiro101) | [GitHub](https://github.com/dmax101) | [Portfólio](https://behance.net/gallery/56328333/Portfolio)
 
 ---
@@ -37,6 +38,7 @@ Engenheiro de Software Sênior com 6+ anos de experiência prática desenvolvend
 ## EXPERIÊNCIA PROFISSIONAL
 
 ### **Engenheiro Frontend Sênior** | Linx | Remoto, Brasil
+
 *Janeiro 2025 - Presente*
 
 - Desenvolvo componentes Angular de alto desempenho e reutilizáveis para plataforma de software automotivo servindo clientes empresariais
@@ -49,6 +51,7 @@ Engenheiro de Software Sênior com 6+ anos de experiência prática desenvolvend
 - Mentoro membros da equipe em boas práticas Angular, padrões de design e recursos modernos JavaScript/TypeScript
 
 ### **Desenvolvedor Full Stack** | Aquasoft | Remoto, Brasil
+
 *Março 2024 - Dezembro 2024*
 
 - Migrei com sucesso 5+ aplicações Angular legadas (versões 8-12) para Angular 17 dentro de workspace Nx monorepo
@@ -63,6 +66,7 @@ Engenheiro de Software Sênior com 6+ anos de experiência prática desenvolvend
 - Estabeleci padrões de codificação e documentação de boas práticas melhorando produtividade da equipe em 20%
 
 ### **Desenvolvedor Full Stack Freelancer** | Autônomo | Remoto
+
 *Abril 2023 - Presente*
 
 - Entrego aplicações web customizadas usando Angular, React, Next.js e NestJS para clientes em e-commerce, SaaS e fintech
@@ -78,6 +82,7 @@ Engenheiro de Software Sênior com 6+ anos de experiência prática desenvolvend
 - Alcanço 95%+ de taxa de satisfação de clientes com entrega pontual e comunicação clara
 
 ### **Desenvolvedor Frontend** | Payever | Remoto, Alemanha
+
 *Março 2023 - Abril 2023*
 
 - Desenvolvi componentes Angular TypeScript para plataforma fintech de processamento de pagamentos
@@ -86,6 +91,7 @@ Engenheiro de Software Sênior com 6+ anos de experiência prática desenvolvend
 - Participei de revisões de código e mantive altos padrões de qualidade de código
 
 ### **Engenheiro de Software** | Deloitte | Remoto, Brasil
+
 *Novembro 2021 - Março 2023*
 
 - Desenvolvi plataforma de automação de workflow empresarial para cliente Fortune 500 Unilever usando Angular 14 e Python Django
@@ -104,6 +110,7 @@ Engenheiro de Software Sênior com 6+ anos de experiência prática desenvolvend
 - Documentei especificações técnicas, contratos de API e arquitetura de sistema usando Swagger e Confluence
 
 ### **Desenvolvedor Frontend** | Inatel (Contrato Ericsson) | Santa Rita do Sapucaí, Brasil
+
 *Outubro 2019 - Novembro 2021*
 
 - Desenvolvi aplicações web Angular 8-11 para sistemas de gerenciamento de telecomunicações Ericsson servindo 1M+ usuários
@@ -120,6 +127,7 @@ Engenheiro de Software Sênior com 6+ anos de experiência prática desenvolvend
 - Documentei endpoints de API REST usando especificações Swagger/OpenAPI
 
 ### **Designer UX/UI & Desenvolvedor Frontend** | Limonada | São Paulo, Brasil
+
 *Março 2008 - Março 2017*
 
 - Criei aplicações interativas para iPad usando HTML5, CSS3 e JavaScript para grandes marcas brasileiras
@@ -189,6 +197,7 @@ Figma, Adobe XD, Sketch, Adobe Photoshop, Adobe Illustrator, Adobe After Effects
 ## CERTIFICAÇÕES & PROJETOS
 
 **Bolsa de Inteligência Artificial - Assistente IoT Controlado por Voz** | Inatel | Maio 2020 - Abril 2021
+
 - Desenvolvi sistema IoT controlado por voz usando Wit.ai para processamento de linguagem natural
 - Construí aplicativo móvel React Native e backend Java para controle de dispositivos via MQTT over SSL
 - Gerenciei comunicação em tempo real entre aplicação móvel e dispositivos IoT de laboratório

@@ -37,6 +37,7 @@ Senior Software Engineer with **6+ years of frontend development experience** an
 ## 🛠️ Technology Stack
 
 ### **Frontend Development**
+
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -47,6 +48,7 @@ Senior Software Engineer with **6+ years of frontend development experience** an
 ![SASS](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 
 ### **Backend Development**
+
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
@@ -57,6 +59,7 @@ Senior Software Engineer with **6+ years of frontend development experience** an
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ### **Database & Cloud**
+
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -64,6 +67,7 @@ Senior Software Engineer with **6+ years of frontend development experience** an
 ![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 
 ### **Tools & DevOps**
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
@@ -76,25 +80,33 @@ Senior Software Engineer with **6+ years of frontend development experience** an
 ## 🚀 Featured Projects
 
 ### 🔹 [Quotation Management System](https://github.com/dmax101/icc-idp-prova-quotation-management)
+
 **RESTful API for enterprise quotation management**
+
 - **Tech Stack:** Java, Spring Boot, REST API
 - **Features:** CRUD operations, business logic layer, data persistence
 - **Architecture:** MVC pattern, service-oriented design
 
 ### 🔹 [Virtual Assistant Nateli](https://github.com/dmax101/Nateli_Mqtt_Mobile)
+
 **IoT voice-controlled assistant using MQTT protocol**
+
 - **Tech Stack:** TypeScript, React Native, JavaScript, MQTT
 - **Features:** Voice recognition, real-time communication, device control
 - **Integration:** MQTT broker, mobile platform compatibility
 
 ### 🔹 [Neural Network Data Analysis](https://github.com/dmax101/AG002)
+
 **Predictive analytics using Perceptron Neural Networks**
+
 - **Tech Stack:** Python, Pandas, Scikit-Learn, NumPy
 - **Features:** Data preprocessing, model training, prediction algorithms
 - **Application:** Pattern recognition and data classification
 
 ### 🔹 [PokeNext](https://github.com/dmax101/pokenext) • [Live Demo](https://pokenext-x527.vercel.app)
+
 **Modern Pokémon catalog with SSR and responsive design**
+
 - **Tech Stack:** Next.js, React, TypeScript, Tailwind CSS
 - **Features:** Server-side rendering, API integration, responsive UI
 - **Performance:** Optimized loading, SEO-friendly

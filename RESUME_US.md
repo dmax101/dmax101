@@ -1,7 +1,8 @@
 # DANILO RIBEIRO
+
 **Senior Frontend Engineer | Full Stack Developer**
 
-São Paulo, Brazil | +55 (35) 9 9846-5456 | danriba@gmail.com  
+São Paulo, Brazil | +55 (35) 9 9846-5456 | <danriba@gmail.com>  
 [LinkedIn](https://linkedin.com/in/danribeiro101) | [GitHub](https://github.com/dmax101) | [Portfolio](https://behance.net/gallery/56328333/Portfolio)
 
 ---
@@ -37,6 +38,7 @@ Senior Software Engineer with 6+ years of hands-on experience developing enterpr
 ## PROFESSIONAL EXPERIENCE
 
 ### **Senior Frontend Engineer** | Linx | Remote, Brazil
+
 *January 2025 - Present*
 
 - Engineer high-performance, reusable Angular components for automotive software platform serving enterprise clients
@@ -49,6 +51,7 @@ Senior Software Engineer with 6+ years of hands-on experience developing enterpr
 - Mentor team members on Angular best practices, design patterns, and modern JavaScript/TypeScript features
 
 ### **Full Stack Developer** | Aquasoft | Remote, Brazil
+
 *March 2024 - December 2024*
 
 - Successfully migrated 5+ legacy Angular applications (versions 8-12) to Angular 17 within Nx monorepo workspace
@@ -63,6 +66,7 @@ Senior Software Engineer with 6+ years of hands-on experience developing enterpr
 - Established coding standards and best practices documentation improving team productivity by 20%
 
 ### **Freelance Full Stack Developer** | Self-Employed | Remote
+
 *April 2023 - Present*
 
 - Deliver custom web applications using Angular, React, Next.js, and NestJS for clients in e-commerce, SaaS, and fintech industries
@@ -78,6 +82,7 @@ Senior Software Engineer with 6+ years of hands-on experience developing enterpr
 - Achieve 95%+ client satisfaction rate with on-time delivery and clear communication
 
 ### **Frontend Developer** | Payever | Remote, Germany
+
 *March 2023 - April 2023*
 
 - Developed Angular TypeScript components for fintech payment processing platform
@@ -85,6 +90,7 @@ Senior Software Engineer with 6+ years of hands-on experience developing enterpr
 - Collaborated with international agile team across 3 time zones using SCRUM methodology
 
 ### **Software Engineer** | Deloitte | Remote, Brazil
+
 *November 2021 - March 2023*
 
 - Engineered enterprise workflow automation platform for Fortune 500 client Unilever using Angular 14 and Python Django
@@ -103,6 +109,7 @@ Senior Software Engineer with 6+ years of hands-on experience developing enterpr
 - Documented technical specifications, API contracts, and system architecture using Swagger and Confluence
 
 ### **Frontend Developer** | Inatel (Ericsson Contract) | Santa Rita do Sapucaí, Brazil
+
 *October 2019 - November 2021*
 
 - Developed Angular 8-11 web applications for Ericsson telecommunications management systems serving 1M+ users
@@ -119,6 +126,7 @@ Senior Software Engineer with 6+ years of hands-on experience developing enterpr
 - Documented REST API endpoints using Swagger/OpenAPI specifications
 
 ### **UX/UI Designer & Frontend Developer** | Limonada | São Paulo, Brazil
+
 *March 2008 - March 2017*
 
 - Created interactive iPad applications using HTML5, CSS3, and JavaScript for major Brazilian brands
@@ -186,6 +194,7 @@ Figma, Adobe XD, Sketch, Adobe Photoshop, Adobe Illustrator, Adobe After Effects
 ## CERTIFICATIONS & PROJECTS
 
 **AI Scholarship - Voice-Controlled IoT Assistant** | Inatel | May 2020 - April 2021
+
 - Developed voice-controlled IoT system using Wit.ai for natural language processing
 - Built React Native mobile app and Java backend for device control via MQTT over SSL
 - Managed real-time communication between mobile application and laboratory IoT devices

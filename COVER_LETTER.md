@@ -1,5 +1,6 @@
 # DANILO RIBEIRO
-São Paulo, Brazil | +55 (35) 9 9846-5456 | danriba@gmail.com  
+
+São Paulo, Brazil | +55 (35) 9 9846-5456 | <danriba@gmail.com>  
 [LinkedIn](https://linkedin.com/in/danribeiro101) | [GitHub](https://github.com/dmax101)
 
 ---
@@ -20,6 +21,7 @@ In my current role as Senior Frontend Engineer at Linx, I lead the development o
 What particularly excites me about **[Company Name]** is **[specific aspect about the company - their technology stack, mission, products, or culture]**. I am especially drawn to **[mention specific project, technology, or initiative you've researched about the company]**, as it aligns perfectly with my expertise in building scalable, user-centric web applications.
 
 My technical foundation includes:
+
 - **5+ years of Angular expertise** (versions 8-17), including state management with RxJS and NgRx
 - **Proven ability to migrate and modernize legacy applications**, having successfully migrated 5+ Angular projects to the latest versions within Nx workspace environments at Aquasoft
 - **Full-stack capabilities** with Node.js, Python/Django, and NestJS, enabling me to contribute across the entire application stack
@@ -61,5 +63,5 @@ I would love to discuss how my expertise in modern frontend development and comm
 Best regards,
 
 Danilo Ribeiro  
-danriba@gmail.com | +55 (35) 9 9846-5456  
+<danriba@gmail.com> | +55 (35) 9 9846-5456  
 [LinkedIn](https://linkedin.com/in/danribeiro101) | [GitHub](https://github.com/dmax101)
