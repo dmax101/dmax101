@@ -1,58 +1,130 @@
-### Hello World 👋
+<div align="center">
+  
+# Hi there, I'm Danilo Ribeiro 👋
 
-### This is Danilo Ribeiro!
+### Full Stack Developer | Angular & .NET Specialist
 
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/dmax101)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/danribeiro101/)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:danriba@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danribeiro101/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:danriba@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://www.behance.net/gallery/56328333/Portfolio)
 
-Welcome to my Github page! I'm Danilo, a software engineer graduated in Computer Engineering at Inatel university! Also I have a bachelor degree in Advertising and Marketing, and if you want, you can see my [design portfolio](https://www.behance.net/gallery/56328333/Portfolio) to.
+</div>
 
-<!-- <img align="right" alt="img" src="cover_image.jpg" width="50%" height="auto" /> -->
-<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=dmax101&theme=blue-green&show_icons=true&hide_border=true" />
-<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8&layout=compact&theme=blue-green&hide_border=true" />
+---
 
-#### ⚡ Check it out some of my projects
+## 👨‍💻 About Me
 
-- [Quotation Management](https://github.com/dmax101/icc-idp-prova-quotation-management)
-  - Rest Api
-  - Java
-  - Spring Boot
-- [Virtual Assistant Nateli](https://github.com/dmax101/Nateli_Mqtt_Mobile)
-  - Voice recognizer to voice command thrugh MQTT protocol
-  - Javascript
-  - Typescript
-  - React Native
-- [Databank Analisys using Perception Neural Network](https://github.com/dmax101/AG002)
-  - Artificial inteligence using Neural Network for prediction
-  - Python
-  - Pandas
-  - Scikit Learn
-  - Numpy
-- [PokeNext](https://github.com/dmax101/pokenext) - [see here](https://pokenext-x527.vercel.app)
-  - Next.Js
-  - React
-  - Javascript
-  - Tailwind
+Software Engineer with a degree in **Computer Engineering** from Inatel. Specialized in building modern, scalable web applications using **Angular** and **.NET** technologies. Passionate about creating clean, maintainable code and delivering exceptional user experiences.
 
-#### 📄 Resume
+- 🎯 **Core Focus:** Angular, C# (.NET Core/Framework), TypeScript
+- 🏗️ **Architecture:** RESTful APIs, Microservices, Clean Architecture
+- 🌱 **Currently Learning:** Advanced Angular patterns, Cloud Architecture (Azure)
+- 💼 **Background:** Also hold a degree in Advertising and Marketing
 
-If you want to see my resume please click [here](https://www.notion.so/dmax/Resume-34bc7605c9d8401796e87c78f11f71b5?pvs=4).
+<div align="center">
 
-#### :computer: Programming languages and tools:
+## 📊 GitHub Statistics
 
-<p>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg"></code>
-<br />
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg"></code>
-<br />
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code>
-<br />
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-ar21.svg"></code>
-</p>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=dmax101&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dmax101&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dmax101&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+## 🛠️ Technology Stack
+
+### **Frontend Development**
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![RxJS](https://img.shields.io/badge/RxJS-B7178C?style=for-the-badge&logo=reactivex&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+
+### **Backend Development**
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Entity Framework](https://img.shields.io/badge/Entity_Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### **Database & Cloud**
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+
+### **Tools & DevOps**
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)
+
+---
+
+## 🚀 Featured Projects
+
+### 🔹 [Quotation Management System](https://github.com/dmax101/icc-idp-prova-quotation-management)
+**RESTful API for enterprise quotation management**
+- **Tech Stack:** Java, Spring Boot, REST API
+- **Features:** CRUD operations, business logic layer, data persistence
+- **Architecture:** MVC pattern, service-oriented design
+
+### 🔹 [Virtual Assistant Nateli](https://github.com/dmax101/Nateli_Mqtt_Mobile)
+**IoT voice-controlled assistant using MQTT protocol**
+- **Tech Stack:** TypeScript, React Native, JavaScript, MQTT
+- **Features:** Voice recognition, real-time communication, device control
+- **Integration:** MQTT broker, mobile platform compatibility
+
+### 🔹 [Neural Network Data Analysis](https://github.com/dmax101/AG002)
+**Predictive analytics using Perceptron Neural Networks**
+- **Tech Stack:** Python, Pandas, Scikit-Learn, NumPy
+- **Features:** Data preprocessing, model training, prediction algorithms
+- **Application:** Pattern recognition and data classification
+
+### 🔹 [PokeNext](https://github.com/dmax101/pokenext) • [Live Demo](https://pokenext-x527.vercel.app)
+**Modern Pokémon catalog with SSR and responsive design**
+- **Tech Stack:** Next.js, React, TypeScript, Tailwind CSS
+- **Features:** Server-side rendering, API integration, responsive UI
+- **Performance:** Optimized loading, SEO-friendly
+
+---
+
+## 💼 Professional Information
+
+<div align="center">
+
+### 📄 [View My Complete Resume](https://www.notion.so/dmax/Resume-34bc7605c9d8401796e87c78f11f71b5?pvs=4)
+
+### 🎨 [Design Portfolio](https://www.behance.net/gallery/56328333/Portfolio)
+
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<!--START_SECTION:activity-->
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dmax101&theme=tokyo-night&hide_border=true&area=true)
+<!--END_SECTION:activity-->
+
+---
+
+<div align="center">
+
+### 💡 *"Clean code always looks like it was written by someone who cares."* - Robert C. Martin
+
+![Profile Views](https://komarev.com/ghpvc/?username=dmax101&color=blueviolet&style=for-the-badge)
+
+</div>
