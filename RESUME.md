@@ -15,7 +15,7 @@
 
 ## 💼 Professional Summary
 
-Experienced Software Engineer with **6+ years in frontend development**, specializing in **Angular**, **React**, and modern web technologies. Proven track record of delivering scalable solutions for enterprise clients including **Deloitte** and **Unilever**. Expert in **TypeScript**, **Python**, and cloud technologies with strong **UX/UI design background**. Passionate about identifying and solving complex problems through clean code and innovative solutions. Seeking challenging opportunities to drive digital transformation and optimize user experiences.
+Senior Software Engineer with **6+ years of hands-on experience** developing enterprise-grade web applications using **Angular**, **React**, **TypeScript**, and **JavaScript**. Expertise in **full-stack development** with Node.js, Python, Django, and Java Spring Boot. Proven success delivering scalable solutions for **Fortune 500 clients** including **Deloitte** and **Unilever**, managing projects from conception through deployment. Strong technical background in **frontend development** (Angular 8-17, React 16-18), **backend APIs** (RESTful, GraphQL, tRPC), **database design** (PostgreSQL, MongoDB, SQL Server), and **cloud infrastructure** (Google Cloud Platform, Azure). Achieved **25% reduction** in development time and **40% improvement** in CI/CD efficiency through implementation of modern frameworks and DevOps practices. Passionate about identifying and solving complex problems through clean, maintainable code and innovative solutions. Seeking challenging opportunities to drive digital transformation and deliver exceptional user experiences.
 
 ---
 
