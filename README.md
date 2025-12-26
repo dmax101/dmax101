@@ -8,7 +8,7 @@
 
 Welcome to my Github page! I'm Danilo, a software engineer graduated in Computer Engineering at Inatel university! Also I have a bachelor degree in Advertising and Marketing, and if you want, you can see my [design portfolio](https://www.behance.net/gallery/56328333/Portfolio) to.
 
-<img align="right" alt="img" src="cover_image.jpg" width="50%" height="auto" />
+<!-- <img align="right" alt="img" src="cover_image.jpg" width="50%" height="auto" /> -->
 <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=dmax101&theme=blue-green&show_icons=true&hide_border=true" />
 <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8&layout=compact&theme=blue-green&hide_border=true" />
 
