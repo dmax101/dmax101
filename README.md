@@ -25,13 +25,6 @@ Senior Software Engineer with **6+ years of frontend development experience** an
 
 ## 📊 GitHub Statistics
 
-### 📈 Overview
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=dmax101&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dmax101&layout=compact&langs_count=8&theme=tokyonight"/>
-</p>
-
 ### 📊 Detailed Activity
 
 <p align="center">
@@ -47,12 +40,6 @@ Senior Software Engineer with **6+ years of frontend development experience** an
 <p align="center">
   <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dmax101&theme=tokyonight"/>
   <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dmax101&theme=tokyonight"/>
-</p>
-
-### 🏆 Achievements
-
-<p align="center">
-  <img width="98%" src="https://github-profile-trophy.vercel.app/?username=dmax101&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7"/>
 </p>
 
 </div>
